@@ -9,4 +9,4 @@ I'm currently an undergrad sophmore studying Computer Science with an aim to ach
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swag1400&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza1400&show_icons=true&theme=dark)
