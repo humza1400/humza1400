@@ -1,6 +1,6 @@
 Humza
 -------------------
-- Currently an undergrad as a Junior studying Computer Science with with aim to achieve a Master's Degree.
+- Currently an undergrad studying Computer Science with aim to achieve a Master's Degree by Fall 2024.
 
 - Interests resolve around creating backend software, networking, and data encryption/security.
 
