@@ -1,10 +1,20 @@
-Humza
--------------------
-- Masters in Computer Science, currently working as a Software Engineer
+# Humza
 
-- Interests resolve around creating full-stack software, networking, and data encryption/security.
+**Software Engineer** | **M.S. in Computer Science**
 
-Java | Python | C | C# | Ruby | JavaScript | SQL |
--------------------
+Passionate about building robust, scalable software solutions with a strong emphasis on full-stack development, networking, and data security/encryption. Experienced in architecting and developing applications from concept to deployment, with a focus on clean, maintainable code and performance optimization.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza1400&show_icons=true&theme=dark)
+---
+
+### 🛠️ Core Competencies
+- **Full-Stack Development**
+- **Networking & Protocols**
+- **Data Security & Encryption**
+- **Object-Oriented Design & Architecture**
+- **Agile Development & Team Collaboration**
+
+---
+
+### 💻 Languages & Technologies  
+**Java** | **Python** | **C** | **C# / .NET 8** | **Ruby on Rails** | **JavaScript / TypeScript** | **SQL / PostgreSQL / MySQL** | **React** | **Angular** | **Blazor** | **ASP.NET Web Forms** 
+| **Azure** | **AWS** | **Heroku**
