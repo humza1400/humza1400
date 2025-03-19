@@ -16,5 +16,11 @@ Passionate about building robust, scalable software solutions with a strong emph
 ---
 
 ### 💻 Languages & Technologies  
-**Java** | **Python** | **C** | **C# / .NET 8** | **Ruby on Rails** | **JavaScript / TypeScript** | **SQL / PostgreSQL / MySQL** | **React** | **Angular** | **Blazor** | **ASP.NET Web Forms** 
-| **Azure** | **AWS** | **Heroku**
+**Languages:** C# / .NET 8, Java, Python, C, JavaScript, TypeScript, Ruby  
+**Front End:** Blazor, React, Angular, Next.js, ASP.NET Web Forms  
+**Backend:** ASP.NET Core, Spring Boot, Node.js (Express), Flask, Ruby on Rails  
+**Cloud Platforms:** Azure, AWS, Heroku  
+**Databases:** SQL Server, PostgreSQL, MySQL  
+**DevOps & Tools:** Azure DevOps, Atlassian Suite (Jira, Confluence), Postman, Azure ML Studio  
+**Reporting & Analytics:** SSRS, Power BI, Sentry  
+**Testing Frameworks:** JUnit, Playwright, Jest, Appium  
